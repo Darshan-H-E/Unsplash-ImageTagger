@@ -1,0 +1,4 @@
+/* [project]/src/components/ImageGrid.css [ssr] (css) */
+.image-grid-container{background-color:#f9fafb;min-height:100vh;padding:1rem 0;display:flex;justify-content:center}.image-grid{-moz-column-count:2;column-count:2;-moz-column-gap:1rem;column-gap:1rem}@media (width>=768px){.image-grid{-moz-column-count:3;column-count:3}}@media (width>=1024px){.image-grid{-moz-column-count:4;column-count:4}}.image-item{-moz-column-break-inside:avoid;break-inside:avoid;margin-bottom:1rem;background-color:#fff;border-radius:.5rem;box-shadow:0 2px 4px #0000001a;transition:box-shadow .2s}.image-item:hover{box-shadow:0 4px 8px #0003}.image{width:100%;border-top-left-radius:.5rem;border-top-right-radius:.5rem}.image-description{padding:1rem}.image-description h3{font-size:1.125rem;font-weight:700;color:#1f2937;margin:0}
+
+/*# sourceMappingURL=src_components_ImageGrid_4fcbd7.css.map*/
