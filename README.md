@@ -1,6 +1,8 @@
 # Samwell AI Image Tagger
 This is a full-stack application consisting of a backend built with Express and TypeScript and a frontend built using Next.js and React. The backend fetches images from Unsplash and analyzes them for mock AI-generated tags. The frontend fetches images from the backend and displays them, with the option to analyze images for tags.
 
+![ScreenShot 1](/screenshot.PNG?raw=true)
+
 ## Backend
 
 The backend exposes two API endpoints:
